@@ -1,8 +1,5 @@
 # Hi, I'm Lars. Welcome to my GitHub!
 
-![Battery](https://github.com/user-attachments/assets/62cf9d76-c19c-4c15-8b5b-14cca6917f74)
-
-
 ## 👀
 ### As a dedicated designer, web developer, and architect, I bring a unique blend of skills and experiences to every project. I hold a Master's degree in Architecture and a Web Development Certification.
 
