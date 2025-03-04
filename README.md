@@ -18,7 +18,7 @@
 ### BACKEND
 - Node.js, MongoDB, RESTful APIs, JWT Auth
 ### TOOLS
--VS Code, GitHub, Netlify
+- VS Code, GitHub, Netlify
 <br>
 <br>
 <br>
