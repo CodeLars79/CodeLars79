@@ -1,11 +1,13 @@
-# Hi, I'm Lars. Great to meet you!
+# Hi, I'm Lars. Welcome to my github!
 
 ## 🚀
 ### As a dedicated designer, web developer, and architect, I bring a unique blend of skills and experiences to every project. I hold a Master's degree in Architecture and a Web Development Certification.
 
 ## ✨
 ### My goal is to create elegantly simple designs and cool digital experiences.
-### Welcome to my github!
+
+
+
 
 <!--
 **CodeLars79/CodeLars79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
