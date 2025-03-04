@@ -1,10 +1,10 @@
 # Hi, I'm Lars. Welcome to my GitHub!
 
 ## 👀
-### As a dedicated designer, web developer, and architect, I bring a unique blend of skills and experiences to every project. I hold a Master's degree in Architecture and a Web Development Certification.
+### _As a dedicated designer, web developer, and architect, I bring a unique blend of skills and experiences to every project. I hold a Master's degree in Architecture and a Web Development Certification._
 
 ## ✨
-### My goal is to create elegantly simple designs and cool digital experiences.
+### _Tech is my journey. Simplicity is my philosophy. Creating cool digital experiences is my mission._
 
 ## 🌈
 ### DESIGN
@@ -19,11 +19,11 @@ HTML, CSS, Javascript, React
 Node.js, MongoDB, RESTful APIs, JWT Auth
 ### TOOLS
 VS Code, GitHub, Netlify
+<br>
+<br>
+<br>
+<img src="https://github.com/user-attachments/assets/cb5ac399-a509-4867-95ce-2a9f36a232ad" alt="logo" width="50">
 
-
-
-
-![logoBlack](https://github.com/user-attachments/assets/cb5ac399-a509-4867-95ce-2a9f36a232ad)
 
 
 <!--
