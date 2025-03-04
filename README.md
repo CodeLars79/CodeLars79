@@ -9,7 +9,7 @@
 
 ## 🌈
 ### DESIGN
-- UX, UI, Web, Apps, Logos
+<table><tr><td>UX, UI, Web, Apps, Logos</td></tr></table>
 ### TOOLS
 - Pen and paper, Figma, Illustrator, Photoshop
 
