@@ -1,5 +1,5 @@
 
-<p align="center"># Hi, I'm Lars. Welcome to my GitHub!</p>
+# Hi, I'm Lars. Welcome to my GitHub!
 
 ## 👀
 ### _As a dedicated designer, web developer, and architect, I bring a unique blend of skills and experiences to every project. I hold a Master's degree in Architecture and a Web Development Certification._
@@ -23,7 +23,7 @@
 <br>
 <br>
 <br>
-<img src="https://github.com/user-attachments/assets/cb5ac399-a509-4867-95ce-2a9f36a232ad" alt="logo" width="50">
+<p align="center"><img src="https://github.com/user-attachments/assets/cb5ac399-a509-4867-95ce-2a9f36a232ad" alt="logo" width="50"></p>
 
 
 
