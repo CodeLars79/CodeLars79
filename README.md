@@ -5,9 +5,7 @@
 
 ## ✨
 ### My goal is to create elegantly simple designs and cool digital experiences.
-
-
-### Living, growing and improving with each day...
+### Welcome to my github!
 
 <!--
 **CodeLars79/CodeLars79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
