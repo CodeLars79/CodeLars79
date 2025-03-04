@@ -17,10 +17,13 @@
 ## 🚀
 ### FRONTEND
 <table><tr><td>HTML, CSS, Javascript, React</td></tr></table>
+
 ### BACKEND
 <table><tr><td>Node.js, MongoDB, RESTful APIs, JWT Auth</td></tr></table>
+
 ### TOOLS
-- VS Code, GitHub, Netlify</td></tr></table>
+<table><tr><td>VS Code, GitHub, Netlify</td></tr></table>
+
 <br>
 <br>
 <br>
