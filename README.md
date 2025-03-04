@@ -1,4 +1,4 @@
-# Hi, I'm Lars. Welcome to my github!
+# Hi, I'm Lars. Welcome to my GitHub!
 
 ## 👀
 ### As a dedicated designer, web developer, and architect, I bring a unique blend of skills and experiences to every project. I hold a Master's degree in Architecture and a Web Development Certification.
