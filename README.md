@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Lars. Great to meet you!
 
 <!--
 **CodeLars79/CodeLars79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
