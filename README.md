@@ -6,6 +6,21 @@
 ## ✨
 ### My goal is to create elegantly simple designs and cool digital experiences.
 
+### DESIGN
+UX, UI, Web, Apps, Logos
+### TOOLS
+Pen and paper, Figma, Illustrator, Photoshop
+
+### FRONTEND
+JavaScript, HTML, CSS, React
+
+### BACKEND
+Node.js, MongoDB, RESTful APIs, JWT Auth
+### TOOLS
+VS Code, GitHub, Netlify
+
+
+
 
 
 
