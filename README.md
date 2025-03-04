@@ -23,6 +23,7 @@ VS Code, GitHub, Netlify
 
 
 
+![logoBlack](https://github.com/user-attachments/assets/cb5ac399-a509-4867-95ce-2a9f36a232ad)
 
 
 <!--
