@@ -10,16 +10,17 @@
 ## 🌈
 ### DESIGN
 <table><tr><td>UX, UI, Web, Apps, Logos</td></tr></table>
+
 ### TOOLS
-- Pen and paper, Figma, Illustrator, Photoshop
+<table><tr><td>Pen and paper, Figma, Illustrator, Photoshop</td></tr></table>
 
 ## 🚀
 ### FRONTEND
-- HTML, CSS, Javascript, React
+<table><tr><td>HTML, CSS, Javascript, React</td></tr></table>
 ### BACKEND
-- Node.js, MongoDB, RESTful APIs, JWT Auth
+<table><tr><td>Node.js, MongoDB, RESTful APIs, JWT Auth</td></tr></table>
 ### TOOLS
-- VS Code, GitHub, Netlify
+- VS Code, GitHub, Netlify</td></tr></table>
 <br>
 <br>
 <br>
